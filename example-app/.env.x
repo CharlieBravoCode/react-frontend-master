@@ -1,5 +1,0 @@
-#.env
-
-REACT_APP_UNEEQ_PERSONA_ID=3f4e81c5-f8a4-47a9-b812-689c97ae0111
-REACT_APP_UNEEQ_URL=https://api.us.uneeq.io
-REACT_APP_UNEEQ_TOKEN_URL=http://localhost:3000/token
